@@ -27,7 +27,7 @@ define('ACC_PLUGIN_DIR', plugins_url() . "/acc_user_importer/");
 /**
  * Current plugin version.
  */
-define( 'ACC_USER_IMPORTER_VERSION', '2.0.2' );
+define( 'ACC_USER_IMPORTER_VERSION', '2.0.3' );
 
 /**
  * Plugin activation.
